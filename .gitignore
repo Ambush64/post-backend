@@ -22,7 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-./main_copy.js
 /main_copy.js
 /cluster.js
+/blogPost.js
+/BlogModel.js
+
 
