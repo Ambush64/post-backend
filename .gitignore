@@ -23,8 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 /main_copy.js
-./cluster.js
-./blogPost.js
-./BlogModel.js
+/cluster.js
+/blogPost.js
+/BlogModel.js
 
 
